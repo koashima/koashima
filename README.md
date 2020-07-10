@@ -1,5 +1,8 @@
-### Hi there 👋
-### 📫 How to reach me: https://twitter.com/koashima
+### Hi there 👋 
+### 🌱 I’m currently learning that finding a junior dev job is hard 🌱
+### 📫 How to reach me: https://twitter.com/koashima 📫 
+
+
 <!--
 **koashima/koashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
