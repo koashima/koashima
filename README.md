@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### 🌱 I’m currently learning that finding a junior dev job is hard 🌱
+
 ### 📫 How to reach me: https://twitter.com/koashima 📫 
 
 
